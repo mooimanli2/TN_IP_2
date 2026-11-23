@@ -1,0 +1,10 @@
+[workspace]
+authors = ["cemileberdah <funda.ertekin35@gmail.com>"]
+channels = ['conda-forge']
+name = "notebook1_opdr"
+platforms = ['win-64']
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
